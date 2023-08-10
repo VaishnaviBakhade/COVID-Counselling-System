@@ -1,0 +1,8 @@
+# misc
+
+build/
+Export database/
+nbproject/
+test/
+build.xm
+manifest.mf
